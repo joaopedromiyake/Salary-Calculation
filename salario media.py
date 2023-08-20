@@ -1,4 +1,4 @@
-#Desenvolvido por Prô Terra - MakerZine
+
 
 valor_hora = float(input("Digite o valor ganho por hora de trabalho: "))
 horas_trabalhadas = float(input("Digite o valor de horas trabalhadas neste mês: "))
